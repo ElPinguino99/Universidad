@@ -1,0 +1,18 @@
+#EXTM3U
+#EXT-X-VERSION:3
+## Created with Unified Streaming Platform(version=1.8.4)
+#EXT-X-MEDIA-SEQUENCE:270108888
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-TARGETDURATION:6
+#USP-X-TIMESTAMP-MAP:MPEGTS=1824481696,LOCAL=2024-10-12T01:34:36.800000Z
+#EXT-X-PROGRAM-DATE-TIME:2024-10-12T01:34:36.800000Z
+#EXTINF:6.4, no desc
+bbc_radio_one-audio=96000-270108888.ts
+#EXTINF:6.4, no desc
+bbc_radio_one-audio=96000-270108889.ts
+#EXTINF:6.4, no desc
+bbc_radio_one-audio=96000-270108890.ts
+#EXTINF:6.4, no desc
+bbc_radio_one-audio=96000-270108891.ts
+#EXTINF:6.4, no desc
+bbc_radio_one-audio=96000-270108892.ts
